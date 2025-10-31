@@ -16,3 +16,24 @@
 @define-color color13 #b5b7af;
 @define-color color14 #cececb;
 @define-color color15 #ffffff;
+
+.modules-left {
+  background-color: @background; 
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 8px;
+}
+
+.modules-right {
+  background-color: @background;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 8px;
+}
+
+#clock {
+  background-color: @background;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 8.75px;
+}
